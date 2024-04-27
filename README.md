@@ -7,7 +7,7 @@
 
     > b. What is a _pull request _?
 
-    A pull request is proposal to merge a set of changes from one branch into another.
+    A pull request is a proposal to merge a set of changes from one branch into another.
 
     > c. How do I open up a _pull request_?
 
