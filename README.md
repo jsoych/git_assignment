@@ -11,7 +11,7 @@
 
     > c. How do I open up a _pull request_?
 
-    You can create a pull request using the GitHub web, desktop,mobile app, or using the GitHub CLI.
+    You can create a pull request using the GitHub web, desktop, mobile app, or using the GitHub CLI.
     
     > d. Give me a step by step guide on how to add someone to your repository.
 
